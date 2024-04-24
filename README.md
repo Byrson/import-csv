@@ -42,4 +42,5 @@ UI/UX & error handling could use some work.
 Is your url link [supported](https://github.com/afonsobspinto/strapi-plugin-import-csv/blob/3fcc107c21ec1e055ddf1d1aa1e7b7e5181b6023/services/utils/utils.js#L39)?
 
 - > What happens when I try to update entities that already exist?
+
 Currently you can either create a new entity or update the relations of existent entities. Nothing more.
